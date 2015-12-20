@@ -46,28 +46,28 @@
         <td>data-undefined-text</td>
         <td>String</td>
         <td>'-'</td>
-        <td>Defines the default undefined text.</td>
+        <td>定义默认的undefined文本的显示内容。</td>
     </tr>
     <tr>
         <td>striped</td>
         <td>data-striped</td>
         <td>Boolean</td>
         <td>false</td>
-        <td>True to stripe the rows.</td>
+        <td>true表示以条纹状显示表格，即单双行不同背景色。默认为false</td>
     </tr>
     <tr>
         <td>sortName</td>
         <td>data-sort-name</td>
         <td>String</td>
         <td>undefined</td>
-        <td>Defines which column can be sorted.</td>
+        <td>定义哪一列支持排序</td>
     </tr>
     <tr>
         <td>sortOrder</td>
         <td>data-sort-order</td>
         <td>String</td>
         <td>'asc'</td>
-        <td>Defines the column sort order, can only be 'asc' or 'desc'.</td>
+        <td>定义排序的类型，只能是'asc' 或 'desc'.</td>
     </tr>
     <tr>
         <td>iconsPrefix</td>
